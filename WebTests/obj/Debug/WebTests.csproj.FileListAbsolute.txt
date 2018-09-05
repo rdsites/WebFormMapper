@@ -1,0 +1,7 @@
+C:\Rafael Dias\Projetos-docs\Laboratorios\dotNet\Mapper\Mapper\WebTests\bin\WebTests.dll
+C:\Rafael Dias\Projetos-docs\Laboratorios\dotNet\Mapper\Mapper\WebTests\bin\WebTests.pdb
+C:\Rafael Dias\Projetos-docs\Laboratorios\dotNet\Mapper\Mapper\WebTests\bin\WebFormMapper.dll
+C:\Rafael Dias\Projetos-docs\Laboratorios\dotNet\Mapper\Mapper\WebTests\bin\WebFormMapper.pdb
+C:\Rafael Dias\Projetos-docs\Laboratorios\dotNet\Mapper\Mapper\WebTests\obj\Debug\WebTests.dll
+C:\Rafael Dias\Projetos-docs\Laboratorios\dotNet\Mapper\Mapper\WebTests\obj\Debug\WebTests.pdb
+C:\Rafael Dias\Projetos-docs\Laboratorios\dotNet\Mapper\Mapper\WebTests\obj\Debug\WebTests.csprojResolveAssemblyReference.cache
